@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+ul {
+    padding: 0;
+}
+.header{
+    background-color: darkgray;
+    border: darkgray;
+}
+.header li{
+display: inline-block;
+}
+span{
+   font-size: 25px;
+}
+.header3>li>span{
+    float: right;
+}
+.header3 {
+    float: right;
+}
+.header2 li{
+    padding: 20px;
+}
+.header3 li {
+    padding: 10px;
+}
+.header1 li{
+    padding: 10px;
+}
